@@ -1,0 +1,15 @@
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\bin\Debug\instagram-spam-bot-v3.exe.config
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\bin\Debug\instagram-spam-bot-v3.exe
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\bin\Debug\instagram-spam-bot-v3.pdb
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram-spam-bot-v3.csprojAssemblyReference.cache
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram_spam_bot_v3.Form1.resources
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram_spam_bot_v3.Properties.Resources.resources
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram-spam-bot-v3.csproj.GenerateResource.cache
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram-spam-bot-v3.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram-spam-bot-v3.csproj.CopyComplete
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram-spam-bot-v3.exe
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram-spam-bot-v3.pdb
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\bin\Debug\MetroSet UI.dll
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\obj\Debug\instagram_spam_bot_v3.Form2.resources
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tarik\source\repos\instagram-spam-bot-v3\instagram-spam-bot-v3\bin\Debug\Newtonsoft.Json.xml
